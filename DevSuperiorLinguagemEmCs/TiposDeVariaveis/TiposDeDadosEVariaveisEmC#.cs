@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DevSuperiorLinguagemEmCs;
-internal class TipodDeDadosEVariaveisEmCsharp {
+namespace DevSuperiorLinguagemEmCs.TiposDeVariaveis;
+class TiposDeDadosEVariaveisEmCsharp {
 
-    static void main(String[] args) {
+    static void Main(string[] args) {
 
         int idade;
         double salario, altura;

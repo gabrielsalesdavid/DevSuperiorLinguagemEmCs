@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DevSuperiorLinguagemEmCs;
-internal class PrimeiroPassosEmC_ {
+namespace DevSuperiorLinguagemEmCs.PrimeiroPassos;
+class PrimeiroPassosEmC {
 
-    static void main(String[] args) {
+    static void Main(string[] args)
+    {
         Console.WriteLine("Olá, mundo!");
     }
 }
