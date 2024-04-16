@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Globalization;
 using System.Collections.Generic;
-using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -22,9 +21,9 @@ internal class ProblemaMenorDeTresEmC_ {
         Console.WriteLine("Terceiro valor: ");
         num03 = int.Parse(Console.ReadLine());
 
-        if (num01 > num02 && num01 > num03) {
+        if (num01 < num02 && num01 < num03) {
             menorDeTres = num01;
-        } else if (num02 > num03) {
+        } else if (num02 < num03) {
             menorDeTres = num02;
         } else {
             menorDeTres = num03;
