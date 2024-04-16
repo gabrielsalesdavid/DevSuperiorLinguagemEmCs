@@ -20,9 +20,9 @@ internal class ProblemaCrescenteEmC_ {
 
         do {
             if (num01 < num02) {
-                Console.WriteLine("Decrescente!");
-            } else {
                 Console.WriteLine("Crescente!");
+            } else {
+                Console.WriteLine("Decrescente!");
             }
             Console.WriteLine("Digite outros dois numeros: ");
             num01 = int.Parse(Console.ReadLine());
