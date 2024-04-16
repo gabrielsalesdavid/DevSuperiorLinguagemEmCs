@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace DevSuperiorLinguagemEmCs.ProcessamentoDeDados;
-class ProcessamentoDeDadosEmC_ {
+internal class ProcessamentoDeDadosEmC_ {
 
     static void Mian(string[] args) {
 

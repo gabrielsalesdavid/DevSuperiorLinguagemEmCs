@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace DevSuperiorLinguagemEmCs.TiposDeVariaveis;
-class TiposDeDadosEVariaveisEmCsharp {
+internal class TiposDeDadosEVariaveisEmCsharp {
 
     static void Main(string[] args) {
 

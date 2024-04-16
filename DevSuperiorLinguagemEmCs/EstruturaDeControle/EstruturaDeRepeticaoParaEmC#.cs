@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace DevSuperiorLinguagemEmCs.EstruturaDeControle;
-class EstruturaDeRepeticaoParaEmC_ {
+internal class EstruturaDeRepeticaoParaEmC_ {
     
     static void Main(string[] args) {
 

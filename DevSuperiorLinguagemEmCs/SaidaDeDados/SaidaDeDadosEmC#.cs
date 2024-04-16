@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace DevSuperiorLinguagemEmCs.SaidaDeDados;
-class SaidaDeDadosEmC {
+internal class SaidaDeDadosEmC {
 
     static void Main(string[] args) {
 

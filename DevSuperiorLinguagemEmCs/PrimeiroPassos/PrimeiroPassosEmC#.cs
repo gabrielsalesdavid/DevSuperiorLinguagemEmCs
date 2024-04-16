@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace DevSuperiorLinguagemEmCs.PrimeiroPassos;
-class PrimeiroPassosEmC {
+internal class PrimeiroPassosEmC {
 
     static void Main(string[] args)
     {

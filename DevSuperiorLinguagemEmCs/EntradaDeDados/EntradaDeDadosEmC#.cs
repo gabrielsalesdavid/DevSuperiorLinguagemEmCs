@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace DevSuperiorLinguagemEmCs.EntradaDeDados;
-class EntradaDeDadosEmC_ {
+internal class EntradaDeDadosEmC_ {
 
     static void Main(string[] args) {
 
