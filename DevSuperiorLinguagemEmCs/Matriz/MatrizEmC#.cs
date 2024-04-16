@@ -33,6 +33,7 @@ internal class MatrizEmC_ {
            for (int j = 0; j < n; j++) {
                 Console.WriteLine(mat[i, j] + " ");
             }
+            Console.WriteLine();
         }
     }
 }

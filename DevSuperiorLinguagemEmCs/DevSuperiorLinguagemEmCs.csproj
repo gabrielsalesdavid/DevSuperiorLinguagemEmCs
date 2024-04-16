@@ -11,8 +11,4 @@
     <Compile Remove="PrimeiroPassosEmCsharp.cs" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Problemas\" />
-  </ItemGroup>
-
 </Project>
