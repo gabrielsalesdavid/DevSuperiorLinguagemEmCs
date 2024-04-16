@@ -12,7 +12,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Matriz\" />
     <Folder Include="Problemas\" />
   </ItemGroup>
 
