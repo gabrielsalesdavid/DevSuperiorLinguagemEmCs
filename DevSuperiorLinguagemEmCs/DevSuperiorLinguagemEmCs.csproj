@@ -11,4 +11,10 @@
     <Compile Remove="PrimeiroPassosEmCsharp.cs" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Matriz\" />
+    <Folder Include="Vetores\" />
+    <Folder Include="Problemas\" />
+  </ItemGroup>
+
 </Project>
