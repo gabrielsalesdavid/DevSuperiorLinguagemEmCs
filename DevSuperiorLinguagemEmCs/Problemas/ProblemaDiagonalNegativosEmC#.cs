@@ -33,7 +33,6 @@ internal class ProblemaDiagonalNegativos {
 
         Console.WriteLine();
         somaNegativos = 0;
-        Console.WriteLine("Quantidade de negativos = ");
         for (int i = 0; i < n; i++) {
            for (int j = 0; j < n; j++) {
               if (mat[i, j] < 0) {
@@ -41,6 +40,8 @@ internal class ProblemaDiagonalNegativos {
                 }
             }
 
+
+            Console.WriteLine("Quantidade de negativos = " + somaNegativos);
         }
     }
 }
