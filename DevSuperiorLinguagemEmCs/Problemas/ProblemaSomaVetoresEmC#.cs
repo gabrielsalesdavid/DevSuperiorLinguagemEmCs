@@ -28,7 +28,7 @@ internal class ProblemaSomaVetores {
         Console.WriteLine();
         Console.WriteLine("Valores = ");
         for (int i = 0; i < n; i++) {
-            Console.Write(vet[i] + " ");
+            Console.Write(vet[i].ToString("F1", CI) + " ");
         }
         Console.WriteLine();
 
